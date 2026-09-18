@@ -1,0 +1,3 @@
+Payment Module
+Supports UPI, Credit Card, Debit Card and Net Banking.
+Developer: Himanshu
